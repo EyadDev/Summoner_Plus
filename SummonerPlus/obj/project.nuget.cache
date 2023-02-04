@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IycPT1kM451kg6C/oXT1CT5fx7XvW9ZXfgtUzKA3D1AzSswGiM1G7V630Oa/E/mYjfCMGoN2wlx6hc59rCzMeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eyad\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\SummonerPlus\\SummonerPlus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eyad\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

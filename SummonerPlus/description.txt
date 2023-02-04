@@ -1,0 +1,48 @@
+Summoner+ is a small content and QoL mod that aims to enhance the summoner class and add more features to it to flesh it out, While not overshadowing vanilla items
+
+Currently this mod includes:
+17 whips
+5 accessories
+1 potion
+1 ore
+2 armor sets
+1 minion staff
+
+New summoner weapon sub-Type
+5 complimentary minion staves
+
+This mod also makes:
+all whips auto swing
+magma stones and it's upgrades work with whips
+Finch staff craftable with a bird and some hay
+snapthorn recipe require bee wax, to give other whips more versatility
+Reworked several vanilla items
+new ore spawns on golem kill
+
+Whips and how to craft them:
+
+Iron tip: made with some silk and iron/lead bars
+Molten tip: made with an Iron tip, Gold/platinum bars and some torches
+Diamond web lash: Cobwebs and diamonds
+Nature's Call: bought from the dryad
+Star Striker: Made with fallen stars and molten bars
+Meteoric Shredder: made with meteorite bars
+MiniSlash: made with bones, demonite/crimtane bars and shadow scales/tissue samples
+Key chain: Shadow key, golden keys, chains and hellstone bars
+Forbidden Whip of the desert: Forbidden Core, and souls of light and Night
+Adamantite and Titanium shredders: their respective bars
+Chlorophyte Slash: chlorophyte bars
+Spectral Harvest: A dark harvest and spectral bars
+Wireless Strike: dropped from martian saucer
+Sun Slash: A MiniSlash and sun bars
+Star Scrapper: Stardust Fragments
+Luminite chains: Crafted from several whips and luminite bars, please consult guide or recipe browser for specifics
+
+
+Accessories and how to craft them:
+
+Band of Friendship: life crystal, demonite/crimtane bars & shadow scales/tissue samples
+Extension cord: made with silk and gold/platinum bars at a Tinkerer's workshop
+Hot cord: made with an extension cord, magma stone, demonite and shadow scales (or their crimson variants)
+Cold mechanical cord: Hot cord, Summoner emblem, Frost core, 1 soul from every mech boss and hallowed bars
+Rainbow cord: Cold mechanical cord, rainbow Gems, 10 spectral and sun bars
